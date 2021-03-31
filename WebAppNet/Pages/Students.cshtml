@@ -1,0 +1,22 @@
+@page
+@model net_on_the_web.Pages.AllStudentsModel
+@{
+}
+
+<h1 class="text-center mb-5">All Students</h1>
+<table class="table mt-5">
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Class Id</th>
+    </tr>
+
+    @foreach (var student in @Model.Students)
+    {
+        <tr>
+            <td>@student.Id</td>
+            <td>@student.Name</td>
+            <td>@student.ClassId</td>
+        </tr>
+    }
+</table>

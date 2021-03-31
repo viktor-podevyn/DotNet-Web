@@ -1,0 +1,24 @@
+@page
+@model net_on_the_web.Pages.TeachersModel
+@{
+}
+
+<h1 class="text-center mb-5">All teachers</h1>
+<table class="table mt-5">
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Subject</th>
+        <th>Class Id</th>
+    </tr>
+
+    @foreach (var teacher in @Model.Teachers)
+    {
+        <tr>
+            <td>@teacher.Id</td>
+            <td>@teacher.Name</td>
+            <td>@teacher.Subject</td>
+            <td>@teacher.ClassId</td>
+        </tr>
+    }
+</table>
