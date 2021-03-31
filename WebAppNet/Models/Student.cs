@@ -1,5 +1,5 @@
 
-namespace net_on_the_web.Models
+namespace WebAppNet.Models
 {
     public class Student : Person
     {

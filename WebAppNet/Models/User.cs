@@ -1,4 +1,4 @@
-namespace net_on_the_web.Models
+namespace WebAppNet.Models
 {
     public class Person
     {

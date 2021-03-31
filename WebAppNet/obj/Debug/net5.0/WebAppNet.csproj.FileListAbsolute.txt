@@ -1,0 +1,8 @@
+/Users/viktorpodevyn/Sites/becode/DotNet-Web/WebAppNet/obj/Debug/net5.0/WebAppNet.csprojAssemblyReference.cache
+/Users/viktorpodevyn/Sites/becode/DotNet-Web/WebAppNet/obj/Debug/net5.0/WebAppNet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktorpodevyn/Sites/becode/DotNet-Web/WebAppNet/obj/Debug/net5.0/WebAppNet.AssemblyInfoInputs.cache
+/Users/viktorpodevyn/Sites/becode/DotNet-Web/WebAppNet/obj/Debug/net5.0/WebAppNet.AssemblyInfo.cs
+/Users/viktorpodevyn/Sites/becode/DotNet-Web/WebAppNet/obj/Debug/net5.0/WebAppNet.csproj.CoreCompileInputs.cache
+/Users/viktorpodevyn/Sites/becode/DotNet-Web/WebAppNet/obj/Debug/net5.0/WebAppNet.MvcApplicationPartsAssemblyInfo.cache
+/Users/viktorpodevyn/Sites/becode/DotNet-Web/WebAppNet/obj/Debug/net5.0/WebAppNet.RazorAssemblyInfo.cache
+/Users/viktorpodevyn/Sites/becode/DotNet-Web/WebAppNet/obj/Debug/net5.0/WebAppNet.RazorAssemblyInfo.cs

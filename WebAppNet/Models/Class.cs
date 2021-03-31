@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace net_on_the_web.Models
+namespace WebAppNet.Models
 {
     public class Class
     {

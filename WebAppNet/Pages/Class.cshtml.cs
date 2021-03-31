@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace net_on_the_web.Pages
+namespace WebAppNet.Pages
 {
     public class ClassModel : PageModel
     {
