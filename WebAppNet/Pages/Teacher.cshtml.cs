@@ -1,5 +1,6 @@
 using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using WebAppNet.Models;
 
 namespace WebAppNet.Pages
 {
